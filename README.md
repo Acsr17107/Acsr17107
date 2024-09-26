@@ -2,8 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acsr17107&column=4&margin-w=15&margin-h=15" alt="acsr17107" /></a> </p>
 
-<p align="left">
-</p>
+<p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
