@@ -11,24 +11,29 @@
 
 ## 💻 Tech Stack
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
-[![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/) 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<p align="left">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white" alt="C"/></a>
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/></a>
+</p>
 
 ## 🛠️ Development Environment
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/) 
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/) 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) 
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+<p align="left">
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+    <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio"/></a>
+    <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse"/></a>
+    <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+    <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab"/></a>
+</p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acsr17107&show_icons=true&locale=en&layout=compact" alt="acsr17107" /></p>
+## 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&" alt="acsr17107" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=acsr17107&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&" alt="Streak Stats" /></p>
 
 ---
