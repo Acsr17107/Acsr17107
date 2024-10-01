@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acsr17107&label=Profile%20views&color=0e75b6&style=flat" alt="acsr17107" /> </p>
 
----
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acsr17107&column=4&margin-w=15&margin-h=15" alt="acsr17107" /></a> </p>
 
 ---
@@ -18,9 +16,6 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/) 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-
 
 ## 🛠️ Development Environment
 
