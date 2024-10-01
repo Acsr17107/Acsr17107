@@ -29,7 +29,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=ffb86c&labelColor=282a36&border-radius=20)](https://jupyter.org/) 
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=ffb86c&labelColor=282a36&border-radius=20)](https://colab.research.google.com/)
 
-
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acsr17107&show_icons=true&locale=en&layout=compact" alt="acsr17107" /></p>
