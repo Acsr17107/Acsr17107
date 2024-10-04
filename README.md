@@ -33,7 +33,13 @@
 
 ## 📊 Stats
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=acsr17107&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&" alt="Streak Stats" /></p>
+<p align="center"> <a href="https://github.com/acsr17107">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </a> </p>
+
+<p align="center"> <a href="https://github.com/acsr17107">
+    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" /> </a> </p>
+
+<p align="center"> <a href="https://github.com/acsr17107">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=radical&hide_border=true" alt="GitHub Streak" /> </a> </p>
 
 ---
