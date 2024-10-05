@@ -1,5 +1,4 @@
 🎓 **Education**: Currently studying at Dongyang Mirae University  
-📍 **Location**: Seoul, South Korea
 
 ---
 
