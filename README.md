@@ -40,7 +40,7 @@
 
 <p align="center"> 
 <a href="https://github.com/acsr17107">
-<img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&card_width=500" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </a> 
 </p>
 
