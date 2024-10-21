@@ -34,7 +34,7 @@
 
 <p align="center"> 
 <a href="https://github.com/acsr17107">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=radical&hide_border=true&card_width=450" alt="Top Languages" /> 
 </a> 
 </p>
 
