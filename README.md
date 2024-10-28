@@ -36,15 +36,15 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=calm&hide_border=true&card_width=467" alt="Top Languages" style="border-radius: 15px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=467" alt="Top Languages" style="border-radius: 15px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true" alt="GitHub Stats" style="border-radius: 15px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 15px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=calm&hide_border=true&card_width=467" alt="GitHub Streak" style="border-radius: 15px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=tokyonight&hide_border=true&card_width=467" alt="GitHub Streak" style="border-radius: 15px;" />
 </a>
 
 </div>
