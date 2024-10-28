@@ -20,9 +20,9 @@
     <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
     <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+    <a href="https://www.oracle.com/java/technologies/jspt.html"><img src="https://user-images.githubusercontent.com/674621/71187836-85c01a80-2253-11ea-9792-3d207c76bc1b.png" alt="JSP" width="50" height="50"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
-    <a href="https://www.oracle.com/java/technologies/jspt.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JSP_Logo.svg" alt="JSP" width="50" height="50"/></a>
 </p>
 
 ## 🛠️ Development Environment
