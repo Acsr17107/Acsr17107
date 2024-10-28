@@ -11,29 +11,29 @@
 ## 💻 Things I code with
 
 <p align="left">
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD700&borderRadius=10" alt="Python"/></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white&labelColor=FFD700&borderRadius=10" alt="C"/></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=FFD700&borderRadius=10" alt="Java"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFD700&borderRadius=10" alt="HTML"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFD700&borderRadius=10" alt="CSS"/></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0f4c81" alt="Python"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white&color=0f4c81" alt="C"/></a>
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=0f4c81" alt="Java"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0f4c81" alt="HTML"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0f4c81" alt="CSS"/></a>
 </p>
 
 ## 🛠️ Development Environment
 
 <p align="left">
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FFD700&borderRadius=10" alt="VS Code"/></a>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=FFD700&borderRadius=10" alt="Visual Studio"/></a>
-    <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=FFD700&borderRadius=10" alt="Eclipse"/></a>
-    <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=FFD700&borderRadius=10" alt="Jupyter"/></a>
-    <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=FFD700&borderRadius=10" alt="Google Colab"/></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFD700&borderRadius=10" alt="MySQL"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0f4c81" alt="VS Code"/></a>
+    <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&color=0f4c81" alt="Visual Studio"/></a>
+    <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&color=0f4c81" alt="Eclipse"/></a>
+    <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=0f4c81" alt="Jupyter"/></a>
+    <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=0f4c81" alt="Google Colab"/></a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=0f4c81" alt="MySQL"/></a>
 </p>
 
 ---
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=acsr17107&row=1&column=8&margin-w=15&margin-h=15&theme=monokai&no-bg=true&no-frame=true" alt="acsr17107 GitHub Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=acsr17107&row=1&column=8&margin-w=15&margin-h=15&theme=algolia&no-frame=true" alt="acsr17107 GitHub Trophy" />
     </a>
 </p>
 
@@ -41,18 +41,18 @@
 
 ## 📊 Stats
 
-<div align="center" style="background-color: #2C3E50; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div align="center" style="background-color: #0f4c81; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=gruvbox_light&hide_border=true&card_width=467" alt="Top Languages" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=dracula&hide_border=true&card_width=467" alt="Top Languages" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=gruvbox_light&hide_border=true&card_width=467" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=dracula&hide_border=true&card_width=467" alt="GitHub Streak" />
 </a>
 
 </div>
