@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=acsr17107&row=1&column=8&margin-w=15&margin-h=15&theme=flat&no-frame=true" alt="acsr17107 GitHub Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=acsr17107&row=1&column=8&margin-w=15&margin-h=15&theme=onedark&no-frame=true" alt="acsr17107 GitHub Trophy" />
     </a>
 </p>
 
@@ -39,18 +39,18 @@
 
 ## 📊 Stats
 
-<div align="center" style="background-color: #0f4c81; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div align="center" style="background-color: #1f2937; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px;">
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=dracula&hide_border=true&card_width=467" alt="Top Languages" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=radical&hide_border=true&card_width=467" alt="Top Languages" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=dracula&hide_border=true&card_width=467" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=radical&hide_border=true&card_width=467" alt="GitHub Streak" />
 </a>
 
 </div>
