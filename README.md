@@ -39,20 +39,21 @@
 
 ## 📊 Stats
 
-<div align="center" style="background-color: #1f2937; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px;">
+<div align="center" style="background-color: #f0f0f5; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px;">
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=radical&hide_border=true&card_width=467" alt="Top Languages" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsr17107&langs_count=8&layout=compact&theme=synthwave&hide_border=true&card_width=467" alt="Top Languages" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acsr17107&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://github.com/acsr17107">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=radical&hide_border=true&card_width=467" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acsr17107&theme=synthwave&hide_border=true&card_width=467" alt="GitHub Streak" />
 </a>
 
 </div>
+
 
 ---
